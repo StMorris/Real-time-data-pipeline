@@ -19,4 +19,4 @@
    - `data_storage.py`
 
 ### Pipeline Architecture
-![Architecture Diagram](docs/architecture_diagram.png)
+![Architecture Diagram](/architecture_diagram.png)
