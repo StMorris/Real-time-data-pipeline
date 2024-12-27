@@ -1,0 +1,9 @@
+{
+    "event_hub_connection_str": "YourEventHubConnectionString",  // Replace with your Azure Event Hub connection string.
+    "consumer_group": "YourConsumerGroup",
+    "event_hub_name": "YourEventHubName",
+    "input_path": "path/to/input/data",
+    "output_path": "path/to/output/data",
+    "storage_account_connection_str": "YourStorageAccountConnectionString",
+    "container_name": "YourContainerName"
+}
